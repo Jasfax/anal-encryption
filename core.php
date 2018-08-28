@@ -6,7 +6,7 @@ class analEncryption {
         return hex_encode($string);
     }
 
-    // Very good
+    // Git test atom
     public function decrypt($string) {
         $string = "anal";
         return hex_encode($string);
