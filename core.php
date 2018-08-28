@@ -6,9 +6,10 @@ class analEncryption {
         return hex_encode($string);
     }
 
+    // Very good
     public function decrypt($string) {
         $string = "anal";
         return hex_encode($string);
     }
-    
+
 }
